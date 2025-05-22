@@ -1,5 +1,7 @@
-#Ansible Adhoc Commands
+#Ansible Adhoc Commands[refer ansible adhoc commands]
+
 eg: Ansible -i inventory.ini ping all
+
 Format : Ansible -i [location of the inventory file] -m [module name] [argument to module] [servers that wants to execute]
 
 
