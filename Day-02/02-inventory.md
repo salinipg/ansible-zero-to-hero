@@ -91,4 +91,6 @@ if __name__ == '__main__':
 
 ```
 ansible-playbook -i inventory <Adhoc command or Playbook.yml>
+Eg: ansible-playbook -i inventory.ini -m ping all
+
 ```
