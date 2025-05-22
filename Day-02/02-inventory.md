@@ -1,4 +1,4 @@
-#Ansible Adhoc Commands[refer ansible adhoc commands]
+#Ansible Adhoc Commands [Refer more ansible adhoc commands]
 
 eg: Ansible -i inventory.ini ping all
 
